@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/baryl/static/css/main.15e7b4e1.chunk.css",
+    "main.js": "/baryl/static/js/main.b0e88ce7.chunk.js",
+    "main.js.map": "/baryl/static/js/main.b0e88ce7.chunk.js.map",
+    "runtime-main.js": "/baryl/static/js/runtime-main.d215cf45.js",
+    "runtime-main.js.map": "/baryl/static/js/runtime-main.d215cf45.js.map",
+    "static/js/2.7dda94d5.chunk.js": "/baryl/static/js/2.7dda94d5.chunk.js",
+    "static/js/2.7dda94d5.chunk.js.map": "/baryl/static/js/2.7dda94d5.chunk.js.map",
+    "static/js/3.de6c477d.chunk.js": "/baryl/static/js/3.de6c477d.chunk.js",
+    "static/js/3.de6c477d.chunk.js.map": "/baryl/static/js/3.de6c477d.chunk.js.map",
+    "index.html": "/baryl/index.html",
+    "static/css/main.15e7b4e1.chunk.css.map": "/baryl/static/css/main.15e7b4e1.chunk.css.map",
+    "static/js/2.7dda94d5.chunk.js.LICENSE.txt": "/baryl/static/js/2.7dda94d5.chunk.js.LICENSE.txt",
+    "static/media/menu_icon_white.71abf066.svg": "/baryl/static/media/menu_icon_white.71abf066.svg",
+    "static/media/profile_icon_white.d72654c4.svg": "/baryl/static/media/profile_icon_white.d72654c4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d215cf45.js",
+    "static/js/2.7dda94d5.chunk.js",
+    "static/css/main.15e7b4e1.chunk.css",
+    "static/js/main.b0e88ce7.chunk.js"
+  ]
+}
