@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/baryl_client/static/css/main.15e7b4e1.chunk.css",
-    "main.js": "/baryl_client/static/js/main.30aaf35c.chunk.js",
-    "main.js.map": "/baryl_client/static/js/main.30aaf35c.chunk.js.map",
-    "runtime-main.js": "/baryl_client/static/js/runtime-main.75b1033c.js",
-    "runtime-main.js.map": "/baryl_client/static/js/runtime-main.75b1033c.js.map",
-    "static/js/2.7dda94d5.chunk.js": "/baryl_client/static/js/2.7dda94d5.chunk.js",
-    "static/js/2.7dda94d5.chunk.js.map": "/baryl_client/static/js/2.7dda94d5.chunk.js.map",
-    "static/js/3.de6c477d.chunk.js": "/baryl_client/static/js/3.de6c477d.chunk.js",
-    "static/js/3.de6c477d.chunk.js.map": "/baryl_client/static/js/3.de6c477d.chunk.js.map",
+    "main.css": "/baryl_client/static/css/main.bf47635f.chunk.css",
+    "main.js": "/baryl_client/static/js/main.9d976bfb.chunk.js",
+    "main.js.map": "/baryl_client/static/js/main.9d976bfb.chunk.js.map",
+    "runtime-main.js": "/baryl_client/static/js/runtime-main.e53b21fd.js",
+    "runtime-main.js.map": "/baryl_client/static/js/runtime-main.e53b21fd.js.map",
+    "static/js/2.5c3f902f.chunk.js": "/baryl_client/static/js/2.5c3f902f.chunk.js",
+    "static/js/2.5c3f902f.chunk.js.map": "/baryl_client/static/js/2.5c3f902f.chunk.js.map",
+    "static/js/3.49f3bf8d.chunk.js": "/baryl_client/static/js/3.49f3bf8d.chunk.js",
+    "static/js/3.49f3bf8d.chunk.js.map": "/baryl_client/static/js/3.49f3bf8d.chunk.js.map",
     "index.html": "/baryl_client/index.html",
-    "static/css/main.15e7b4e1.chunk.css.map": "/baryl_client/static/css/main.15e7b4e1.chunk.css.map",
-    "static/js/2.7dda94d5.chunk.js.LICENSE.txt": "/baryl_client/static/js/2.7dda94d5.chunk.js.LICENSE.txt",
+    "static/css/main.bf47635f.chunk.css.map": "/baryl_client/static/css/main.bf47635f.chunk.css.map",
+    "static/js/2.5c3f902f.chunk.js.LICENSE.txt": "/baryl_client/static/js/2.5c3f902f.chunk.js.LICENSE.txt",
     "static/media/menu_icon_white.71abf066.svg": "/baryl_client/static/media/menu_icon_white.71abf066.svg",
     "static/media/profile_icon_white.d72654c4.svg": "/baryl_client/static/media/profile_icon_white.d72654c4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.75b1033c.js",
-    "static/js/2.7dda94d5.chunk.js",
-    "static/css/main.15e7b4e1.chunk.css",
-    "static/js/main.30aaf35c.chunk.js"
+    "static/js/runtime-main.e53b21fd.js",
+    "static/js/2.5c3f902f.chunk.js",
+    "static/css/main.bf47635f.chunk.css",
+    "static/js/main.9d976bfb.chunk.js"
   ]
 }
